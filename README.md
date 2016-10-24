@@ -15,7 +15,7 @@ The files for this project can be downloaded [here]().
 
 Demo
 
-Here is te [demo](file:///Users/xinwang/code/Movie%20Trailer%20Website%20Project/movies/fresh_tomatoes.html)
+Here is te [demo](file:///Users/xinwang/code/Movie%20Trailer%20Website%20Project/movies/fresh_tomatoes.html).
 
 Documentation
 
