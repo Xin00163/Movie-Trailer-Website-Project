@@ -11,6 +11,7 @@ Documentation:
 1. Download "Movies.zip" and unzip the file
 
 2. If you use IDLE, double-click to open, then run the "entertainment_center.py" file
+   
    If you use Atom, use Terminal to find entertainment_center.py and run it.
    
 To modify the list of movies:
