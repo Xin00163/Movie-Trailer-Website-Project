@@ -5,11 +5,14 @@ Movie Trailer Website project is to build a movie website which displays a list 
 ## Install Python 2.7.9. 
 
 ## Download "Movie-Trailer-Website-Project-master.zip" on github
-   https://github.com/Xin00163/Movie-Trailer-Website-Project and unzip the file
+   Go to https://github.com/Xin00163/Movie-Trailer-Website-Project and click "Clone or download" selecting "Download ZIP" in the dropdown 
    
-   If you use IDLE, double-click to open, then run the "entertainment_center.py" file
+   Once the file is downloaded, unzip it
    
-   If you use Atom, use Terminal to find entertainment_center.py and run it.
+   Double-click to open the "entertainment_center.py" file in your default editor. 
+   
+   Run the code
+   
    
 ## To modify the list of movies:
    Edit the entertainment_center.py file with your chosen text editor.
