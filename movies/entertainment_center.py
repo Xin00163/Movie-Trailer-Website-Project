@@ -32,7 +32,7 @@ braveheart = media.Movie("Braveheart",
                         "https://www.youtube.com/watch?v=j53_WxqPZ7c")
 
 movies = [the_handmaiden, fight_club, forrest_gump, mad_max, gladiator, braveheart]
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 
 #print (media.Movie.VALID_RATINGS)
-print(media.Movie.__doc__)
+#print(media.Movie.__doc__)
