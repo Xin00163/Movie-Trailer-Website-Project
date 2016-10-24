@@ -1,22 +1,17 @@
 # Movie-Trailer-Website
 
-Author: Xin Wang
-Program: Udacity Full Stack Web Development Nanodegree
-
-This project is to build a movie website in Python, which displays a list of my favourite movies. Each movie contains its title, storyline, poster image and the link to its YouTube trailer.
+Movie Trailer Website project is to build a movie website which displays a list of my favourite movies. It contains each movie's title, storyline, poster image and also allows visitors to click on the image and watch the trailers.
 
 Installation:
+Install Python 2.7.9. 
 
-Install Python 2.7.9. For this project, I used Atom instead of IDLE. If you prefer to use Atom or Sublime, please install them as well.
+Documentation:
+1. Download "Movies.zip" and unzip the file
+2. If you use IDLE, double-click to open, then run the "entertainment_center.py" file
+   If you use Atom, use Terminal to find entertainment_center.py and run it.
 
-Download:
+To modify the list of movies:
+Edit the entertainment_center.py file with your chosen text editor.
 
-The files for this project can be downloaded [here]().
-
-Demo
-
-Here is te [demo](file:///Users/xinwang/code/Movie%20Trailer%20Website%20Project/movies/fresh_tomatoes.html).
-
-Documentation
 
 
